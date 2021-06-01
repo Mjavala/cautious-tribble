@@ -11,6 +11,6 @@ export class SniperComponent {
 
   onSubmit() {
     console.log('initialize sniper...')
+    // request /snipe from webserver
   }
-
 }
