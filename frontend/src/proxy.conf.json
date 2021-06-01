@@ -1,0 +1,6 @@
+{
+    "/snipe": {
+      "target": "http://localhost:3001/snipe",
+      "secure": false
+    }
+  }
